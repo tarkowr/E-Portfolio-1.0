@@ -2,8 +2,7 @@
 
 **[Visit my website!](https://richietarkowski.com)**
 
-**Special thanks to Noah Osterhout for hosting this website!**
-Visit Noah's [GitHub](https://github.com/NoahFlowa).
+**Hosted on Google Cloud**
 
 ## What I Learned
 * Mobile and Responsive Web Design
